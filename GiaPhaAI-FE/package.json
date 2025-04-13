@@ -1,0 +1,51 @@
+{
+  "name": "giapha-ai-frontend",
+  "author": "GiaPhaAI Team",
+  "description": "Frontend cho dự án Gia Phả AI",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons": "5.2.6",
+    "@ant-design/pro-components": "2.6.46",
+    "@ant-design/pro-layout": "7.17.19",
+    "@reduxjs/toolkit": "2.0.1",
+    "antd": "5.13.1",
+    "async-mutex": "0.4.0",
+    "axios": "1.6.5",
+    "dayjs": "1.11.10",
+    "dotenv": "16.3.1",
+    "html-react-parser": "4.0.0",
+    "lodash": "4.17.21",
+    "query-string": "8.1.0",
+    "react": "18.2.0",
+    "react-countup": "6.4.2",
+    "react-device-detect": "2.2.3",
+    "react-dom": "18.2.0",
+    "react-icons": "4.12.0",
+    "react-quill": "2.0.0",
+    "react-redux": "9.0.4",
+    "react-router-dom": "6.21.1",
+    "react-spinners": "0.13.8",
+    "uuid": "9.0.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "4.14.202",
+    "@types/node": "20.10.5",
+    "@types/react": "18.2.45",
+    "@types/react-dom": "18.2.18",
+    "@types/react-router-dom": "5.3.3",
+    "@types/uuid": "9.0.7",
+    "@vitejs/plugin-react-swc": "3.5.0",
+    "rollup-plugin-visualizer": "5.9.2",
+    "sass": "1.69.5",
+    "typescript": "5.3.3",
+    "vite": "5.0.10"
+  }
+}
