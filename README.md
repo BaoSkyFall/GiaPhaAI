@@ -34,13 +34,14 @@
 ## 🧱 Gợi ý công nghệ
 | Thành phần | Công nghệ |
 |------------|-----------|
-| Frontend (Web/App) | Flutter / React Native / Angular |
-| Backend | NestJS / Node.js / Laravel |
-| Database | PostgreSQL / MongoDB |
-| AI Nhận diện khuôn mặt | Face API (Microsoft) / face-api.js / AWS Rekognition |
-| OCR | Tesseract OCR / Google Vision API |
-| Zalo OA Notification | Zalo Official Account API |
-| Lịch Âm – Dương | lunar-calendar lib / API lịch Việt |
+| Frontend Web | Angular/React |
+| Backend | NestJS |
+| Database | MongoDB |
+| Mobile | Flutter (Android/iOS) |
+| AI Nhận diện khuôn mặt | Face API (Microsoft) |
+| OCR | Tesseract OCR |
+| Thông báo | Zalo Official Account API |
+| Lịch Âm – Dương | lunar-calendar lib |
 
 ## 🔐 Bảo mật & Quyền riêng tư
 - Ảnh khuôn mặt được mã hóa và lưu trữ bảo mật.
